@@ -4,8 +4,12 @@ Un widget de tareas minimalista para el escritorio de Windows 11, hecho con Pyth
 
 Vive pegado al escritorio: no tapa tus ventanas, sigue visible con **Win+D** y no ocupa espacio en la barra de tareas.
 
-<!-- Captura del widget: guarda la imagen en docs/captura.png -->
-![Mi Panel de Tareas](docs/captura.png)
+<p align="center">
+  <img src="docs/captura.png" alt="Widget con tareas pendientes" width="300">
+  &nbsp;&nbsp;
+  <img src="docs/captura2.png" alt="Recordatorio en las notificaciones de Windows" width="300">
+</p>
+<p align="center"><em>El widget en el escritorio · Un recordatorio en el centro de notificaciones</em></p>
 
 ## Características
 
