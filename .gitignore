@@ -1,0 +1,9 @@
+# Datos personales del usuario
+*.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Copias locales
+*_backup.py
